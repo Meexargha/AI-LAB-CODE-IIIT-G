@@ -1,0 +1,81 @@
+n,test,algorithm,outcome,elapsed,path_length
+3,1,BFS,Success,0.1419,18
+3,1,DFS,Success,0.4994,48696
+3,1,DLS,Success,0.0921,20
+3,1,ID,Success,0.4779,18
+3,2,BFS,Success,0.0732,18
+3,2,DFS,Success,0.5383,38340
+3,2,DLS,Success,0.0726,18
+3,2,ID,Success,0.2495,18
+3,3,BFS,Success,0.2829,21
+3,3,DFS,Success,0.1618,38983
+3,3,DLS,Failure (Exhausted),0.4642,
+3,3,ID,Success,1.4042,21
+3,4,BFS,Success,0.1631,20
+3,4,DFS,Success,0.2107,56296
+3,4,DLS,Success,0.1353,20
+3,4,ID,Success,0.7135,20
+3,5,BFS,Success,0.1715,20
+3,5,DFS,Success,0.186,47832
+3,5,DLS,Success,0.1778,20
+3,5,ID,Success,0.953,20
+3,6,BFS,Success,0.0837,18
+3,6,DFS,Success,0.1002,28322
+3,6,DLS,Success,0.1389,20
+3,6,ID,Success,0.3192,18
+3,7,BFS,Success,0.0629,17
+3,7,DFS,Success,0.528,31433
+3,7,DLS,Success,0.2535,17
+3,7,ID,Success,0.1493,17
+3,8,BFS,Success,0.2703,22
+3,8,DFS,Success,0.2268,53278
+3,8,DLS,Failure (Exhausted),0.4622,
+3,8,ID,Success,1.8065,22
+3,9,BFS,Success,0.1072,19
+3,9,DFS,Success,0.0618,18267
+3,9,DLS,Success,0.1284,19
+3,9,ID,Success,0.5727,19
+3,10,BFS,Success,0.3403,22
+3,10,DFS,Success,0.2225,54132
+3,10,DLS,Failure (Exhausted),0.4646,
+3,10,ID,Success,2.5203,22
+4,1,BFS,State Limit Reached,0.4306,
+4,1,DFS,Timeout,60.0,
+4,1,DLS,Failure (Exhausted),28.052,
+4,1,ID,Timeout,60.0,
+4,2,BFS,State Limit Reached,0.4403,
+4,2,DFS,Timeout,60.0,
+4,2,DLS,Failure (Exhausted),32.7538,
+4,2,ID,Timeout,60.0,
+4,3,BFS,State Limit Reached,0.5093,
+4,3,DFS,Timeout,60.0,
+4,3,DLS,Failure (Exhausted),30.5165,
+4,3,ID,Timeout,60.0,
+4,4,BFS,State Limit Reached,0.5311,
+4,4,DFS,Timeout,60.0,
+4,4,DLS,Failure (Exhausted),34.9161,
+4,4,ID,Timeout,60.0,
+4,5,BFS,State Limit Reached,0.5032,
+4,5,DFS,Timeout,60.0,
+4,5,DLS,Failure (Exhausted),30.137,
+4,5,ID,Timeout,60.0,
+4,6,BFS,State Limit Reached,0.4799,
+4,6,DFS,Timeout,60.0,
+4,6,DLS,Failure (Exhausted),18.5847,
+4,6,ID,Timeout,60.0,
+4,7,BFS,State Limit Reached,0.5166,
+4,7,DFS,Timeout,60.0,
+4,7,DLS,Failure (Exhausted),28.7111,
+4,7,ID,Timeout,60.0,
+4,8,BFS,State Limit Reached,0.483,
+4,8,DFS,Timeout,60.0,
+4,8,DLS,Success,14.1681,20
+4,8,ID,Success,39.8936,20
+4,9,BFS,State Limit Reached,0.5437,
+4,9,DFS,Timeout,60.0,
+4,9,DLS,Failure (Exhausted),23.597,
+4,9,ID,Timeout,60.0,
+4,10,BFS,Success,0.4014,15
+4,10,DFS,Timeout,60.0,
+4,10,DLS,Success,1.7347,15
+4,10,ID,Success,0.5311,15
